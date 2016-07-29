@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## 2016-07-29 chapter-8.1 (004-salameche)
+
+### Added
+
+Chapter 8.1 : Template syntax, interpolation
+
 ## 2016-07-28 chapter-7.3 (003-florizarre)
 
 ### Added
