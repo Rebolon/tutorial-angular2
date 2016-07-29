@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## 2016-07-28 chapter-7.3 (003-florizarre)
+
+### Added
+
+Chapter 7.3 : Start application
+
 ## 2016-07-28 chapter-7.2 (002-herbizarre)
 
 ### Added
