@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## 2016-07-28 chapter-7.2 (002-herbizarre)
+
+### Added
+
+Chapter 7.2 : Our first component
+
 ## 2016-07-28 chapter-7.1 (001-bulbizarre)
 
 ### Added
