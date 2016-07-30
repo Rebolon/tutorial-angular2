@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## 2016-07-30 chapter-8.2 (005-reptincel)
+
+### Added
+
+Chapter 8.2 : Use components in templates
+
 ## 2016-07-29 chapter-8.1 (004-salameche)
 
 ### Added

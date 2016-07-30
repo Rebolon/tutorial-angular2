@@ -3,6 +3,6 @@ import { Component } from '@angular/core';
     selector: 'ns-races',
     template: `<h2>Races</h2>`
 })
-class RacesComponent {
+export class RacesComponent {
 
 }
