@@ -7,12 +7,14 @@ import { RacesComponent } from './races.component';
     selector: 'ponyracer-app',  
     template: `
         <h1>PonyRacer</h1>
-        <ns-races></ns-races>
+        <ns-races (newRaceAvailable)="onNewRace()"></ns-races>
     `,
 
     // declare all the components you use in your template
     directives: [RacesComponent]
 })
 export class PonyRacerAppComponent {
-
+    onNewRace() {
+        // add a flashy message for the user.
+    }
 }

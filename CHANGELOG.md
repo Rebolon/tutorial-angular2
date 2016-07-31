@@ -10,6 +10,13 @@
 
 ### Fixed
 
+## 2016-07-30 chapter-8.3 & chapter-8.4 (006-dracaufeu)
+
+### Added
+
+Chapter 8.3 : Properties bindings
+Chapter 8.4 : Events
+
 ## 2016-07-30 chapter-8.2 (005-reptincel)
 
 ### Added
