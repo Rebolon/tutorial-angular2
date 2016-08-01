@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## 2016-08-01 chapter-8.10 (009-tortank)
+
+### Added
+
+Chapter 8.10 : Sumup
+
 ## 2016-08-01 chapter-8.7 (008-carabaffe)
 
 ### Added
