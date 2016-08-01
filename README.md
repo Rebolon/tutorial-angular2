@@ -5,6 +5,9 @@
 This is a sample project to learn Angular2.
 It's based on the ebook "Become a Ninja with Angular2" from the @ninjasquad team (release with Angular2@rc.4).
 
+Note all chapters have their own tag because there isn't code in all of them. So don't worry if you don't find
+a chpater.
+
 Have a look at https://github.com/Rebolon/tutorial-angular2/wiki to get more information.
 
 ## Installation
