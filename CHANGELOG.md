@@ -10,6 +10,14 @@
 
 ### Fixed
 
+## 2016-08-01 chapter-8.7 (008-carabaffe)
+
+### Added
+
+Chapter 8.7 : Structural Directives
+ * 8.7.1 : ngIf
+ * 8.7.2 : ngFor
+
 ## 2016-08-01 chapter-8.6 (007-carapuce)
 
 ### Added
