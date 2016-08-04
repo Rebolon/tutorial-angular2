@@ -10,6 +10,13 @@
 
 ### Fixed
 
+## 2016-08-01 chapter-9.1 (010-chenipan)
+
+### Added
+
+Chapter 9 : Dependancy injection
+ * 9.2 : Easy development
+
 ## 2016-08-01 chapter-8.10 (009-tortank)
 
 ### Added
