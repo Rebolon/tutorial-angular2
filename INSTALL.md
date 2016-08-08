@@ -10,6 +10,6 @@ npm install
 npm install -g http-server
 npm install
 
-## Update for chapter-9.1 (010-chenipan)
+## Update for chapter-9.2 (010-chenipan)
 
 npm install 

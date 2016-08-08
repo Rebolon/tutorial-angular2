@@ -10,7 +10,7 @@
 
 ### Fixed
 
-## 2016-08-01 chapter-9.1 (010-chenipan)
+## 2016-08-01 chapter-9.2 (010-chenipan)
 
 ### Added
 
