@@ -11,14 +11,13 @@ function playWithInjector(inj) {
 // logs "true", as the same instance is returned every time for a token
 }
 
-const IS_PROD = false;
-
 bootstrap(PonyRacerAppComponent, [
     HTTP_PROVIDERS,
+    { provide: 'IS_PROD', useValue: true },
     { provide: RaceService,
-      useFactory: () => IS_PROD ? new RaceService(null) : new FakeRaceService(),
+      useFactory: (IS_PROD, http) =>  IS_PROD ? new RaceService(http) : new FakeRaceService(),
       // array with the dependencies needed (for RceService here)
-      deps: [Http]
+      deps: ['IS_PROD', Http]
     }
 ]).then(
     appRef => playWithInjector(appRef.injector)
