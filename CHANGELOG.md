@@ -10,6 +10,13 @@
 
 ### Fixed
 
+## 2016-08-01 chapter-9.4.1 (012-papilusion)
+
+### Added
+
+Chapter 9 : Dependancy injection
+ * 9.4 : Other provider (syntax 1)
+
 ## 2016-08-01 chapter-9.3 (011-chrysacier)
 
 ### Added
