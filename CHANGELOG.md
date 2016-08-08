@@ -10,6 +10,13 @@
 
 ### Fixed
 
+## 2016-08-01 chapter-9.3 (011-chrysacier)
+
+### Added
+
+Chapter 9 : Dependancy injection
+ * 9.3 : Easy configuration
+ 
 ## 2016-08-01 chapter-9.2 (010-chenipan)
 
 ### Added
